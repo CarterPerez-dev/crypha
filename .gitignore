@@ -1,0 +1,17 @@
+# build output
+/dist/
+/crypha
+
+# test / coverage
+coverage.out
+*.test
+*.prof
+
+# local dev docs (research / plans / context stay local)
+/docs/
+
+# editor / os
+.idea/
+.vscode/
+*.swp
+.DS_Store
